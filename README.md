@@ -1,16 +1,40 @@
-# React + Vite
+# 📋 Gerenciador de Tarefas
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto desenvolvido com **React (Vite) + TailwindCSS + JSON Server** com o objetivo de praticar conceitos fundamentais de front-end, como componentização, gerenciamento de estado e consumo de API.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Funcionalidades
 
-## React Compiler
+- ✅ Criar novas tarefas  
+- ✏️ Editar tarefas existentes (via modal)  
+- 🗑️ Remover tarefas  
+- 🔍 Buscar tarefas dinamicamente (com debounce)  
+- 📡 Integração com API fake usando json-server  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🧠 Conceitos praticados
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Componentes reutilizáveis  
+- Props e comunicação entre componentes  
+- Hooks do React:
+  - `useState`
+  - `useEffect`
+  - `useReducer`
+- Custom Hooks (`useDebounce`)  
+- Manipulação de listas e estado imutável  
+- Consumo de API com `fetch`  
+- Debounce para otimização de requisições  
+
+---
+
+## 🛠️ Tecnologias utilizadas
+
+- React  
+- TailwindCSS  
+- json-server  
+- Lucide Icons  
+
+---
+
