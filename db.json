@@ -1,19 +1,19 @@
 {
   "tarefas": [
     {
-      "nome": "Lavei os Planos",
+      "nome": "Lavar a garagem de casa",
       "id": "fJaqmMSYW14"
     },
     {
-      "nome": "Editar",
+      "nome": "Fazer a janta",
       "id": "zIdl104fEPM"
     },
     {
-      "nome": "teste",
+      "nome": "Estudar Java",
       "id": "wvZWVonke6E"
     },
     {
-      "nome": "tes",
+      "nome": "Estudar para a prova de POO",
       "id": "FONuZk9"
     }
   ]
